@@ -1,6 +1,4 @@
-"""
-Assignment 3 template
-"""
+
 import random
 random.seed(30)
 
